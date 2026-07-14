@@ -28,6 +28,12 @@ I enjoy transforming raw data into meaningful business insights using data analy
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwajeetpatil011&show_icons=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetpatil011&layout=compact&theme=github_dark" height="170"/>
+</p>
 
 ---
 
